@@ -1,0 +1,18 @@
+# Build and IDE artifacts
+.pio/
+.vscode/
+*.hex
+*.elf
+*.map
+
+# Large raw media
+Media/
+Media/*.mp4
+media/*.jpg
+media/*.mp4
+media/videos/*.mp4
+PCB/Project Backups/
+
+# Temporary and duplicate captures
+video-preview.gif
+Screenshot 2026-*.png
