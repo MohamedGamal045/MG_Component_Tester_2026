@@ -36,9 +36,9 @@ The MG Component Tester is a custom graphical interface and hardware integration
 
 <table>
   <tr>
-    <td align="center"><b>Test 01</b><br><img src="media/gifs/component-test-01.gif" width="220"></td>
-    <td align="center"><b>Test 02</b><br><img src="media/gifs/component-test-02.gif" width="220"></td>
-    <td align="center"><b>Test 03</b><br><img src="media/gifs/component-test-03.gif" width="220"></td>
+    <td align="center"><b>PCB</b><br><img src="media/gifs/component-test-01.gif" width="220"></td>
+    <td align="center"><b>Switches&Socket</b><br><img src="media/gifs/component-test-02.gif" width="220"></td>
+    <td align="center"><b>Fault</b><br><img src="media/gifs/component-test-03.gif" width="220"></td>
   </tr>
   <tr>
     <td align="center"><b>Test 04</b><br><img src="media/gifs/component-test-04.gif" width="220"></td>
