@@ -1,6 +1,6 @@
 /*
  * ============================================================================
- * PROJECT: MG_V1.1 - MG Engineer Component Tester & Measurement System
+ * PROJECT: MG_V1.2 - MG Engineer Component Tester & Measurement System
  * AUTHOR:  Mohamed Gamal (MG Engineer)
  * WEB:     https://sites.google.com/view/mgengineer
  * GITHUB:  https://github.com/MohamedGamal045
